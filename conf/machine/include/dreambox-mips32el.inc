@@ -9,3 +9,7 @@ require conf/machine/include/dreambox.inc
 require conf/machine/include/tune-mips32.inc
 
 MACHINE_KERNEL_PR = "r14"
+
+BOX_BRAND = "dreambox"
+
+MTD_KERNEL = "mtd2"
